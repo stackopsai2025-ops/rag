@@ -9,6 +9,7 @@ dependencies = [
     "chromadb>=0.5.5",
     "sentence-transformers>=2.7.0",
     "numpy>=1.26.0",
+    "tiktoken"
 ]
 
 [tool.uv]
